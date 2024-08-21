@@ -14,13 +14,13 @@
 
 Install dependencies:
 ```
-npm i -D eslint @wizardcomp/eslint-config
+npm i -D eslint wizardcomp-eslint-config
 ```
 Inside `.eslintrc.json`
 ```
 {
   "extends": [
-    "@wizardcomp/eslint-config/next", 
+    "wizardcomp-eslint-config/next", 
     "next/core-web-vitals"
   ]
 }
@@ -30,12 +30,12 @@ Inside `.eslintrc.json`
 
 Install dependencies:
 ```
-npm i -D eslint @wizardcomp/eslint-config
+npm i -D eslint wizardcomp-eslint-config
 ```
 Inside `.eslintrc.json`
 ```
 {
-  "extends": "@wizardcomp/eslint-config/react"
+  "extends": "wizardcomp-eslint-config/react"
 }
 ```
 
@@ -43,11 +43,11 @@ Inside `.eslintrc.json`
 
 Install dependencies:
 ```
-npm i -D eslint @wizardcomp/eslint-config
+npm i -D eslint wizardcomp-eslint-config
 ```
 Inside `.eslintrc.json`
 ```
 {
-  "extends": "@wizardcomp/eslint-config/node"
+  "extends": "wizardcomp-eslint-config/node"
 }
 ```
