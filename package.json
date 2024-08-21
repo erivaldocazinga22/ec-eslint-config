@@ -6,7 +6,7 @@
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/erivaldocazinga22/ec-eslint-config"
+    "url": "https://github.com/erivaldocazinga22/wizardcomp-eslint-config"
   },
   "peerDependencies": {
     "eslint": "^8.0.0",
